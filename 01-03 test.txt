@@ -1,0 +1,17 @@
+??? ?  
+
+1 =>  static  
+2 =>  composite
+3=>   proxy 
+4=>   protoype
+5=>   chains
+6=>   visitor
+7=>   observer
+ 8=>   strategy
+ 9=>    abstract factory 
+10=>   decorator
+11=>   memento
+12=>   builder 
+13=>   adapter 
+
+
